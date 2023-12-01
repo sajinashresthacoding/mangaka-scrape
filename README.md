@@ -7,7 +7,7 @@
 ## Context: 
 #### Since 2020-21, mangas (japanese comics) have grown in popularity due to the rise and increased availability of anime. However, a significant portion of the most popular mangas are written by men. Why is it so and have there been attempts to translate more women authors given that a women make a large portion of the manga industry as whole. 
 
-## Methodoloy:
+## Methodology:
 #### I collected data of manga releases from before the boom (2018-19) and after (2021-22) and collected them in a dataset. My process is to run the names through genderize and map the numbers onto a visualizer to see if more women are being translated and also the ratio of the genders of translators.
 
 ## Caveats:
